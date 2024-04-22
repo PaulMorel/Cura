@@ -12,6 +12,7 @@
         "has_materials": true,
         "has_variants": true,
         "machine_extruder_trains": { "0": "creality_base_extruder_0" },
+        "platform": "creality_ender3_v3_se.stl",
         "preferred_material": "generic_pla",
         "preferred_quality_type": "standard",
         "preferred_variant_name": "0.4mm Nozzle",
